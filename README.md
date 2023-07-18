@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @cqndy020
 - 👀 I’m interested in crypto, NFT, AI and technology.
-- 🌱 I’m currently learning Python and Rust.
+- 🌱 I’m currently learning Python.
 - 📫 You can reach me through [Twitter](https://twitter.com/littlecqndy) or LinkedIn
 
 <!---
